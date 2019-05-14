@@ -1,4 +1,3 @@
-# hello-world
-First step from github
-
-First change readme.md.
+2019-05-14
+上午：
+  7:00  起床
